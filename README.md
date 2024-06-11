@@ -6,7 +6,7 @@ Colocar som como preferir dos cards, com ajuste de volume.
 [Click aqui! para acessar.](https://andrewchucrute.github.io/NewFocusTimer/)
 
 
-![image](https://github.com/andrewchucrute/NewFocusTimer/assets/103382295/2f22aec5-b20e-4786-b0ca-da1e67d1033b)
+![andrewhenrique2 github io_NewFocusTimer_](https://github.com/andrewhenrique2/NewFocusTimer/assets/103382295/5ccefa79-c8b4-4437-96f1-dc9070525c80)
 
 
 
